@@ -3,4 +3,6 @@ Text Analytics 1. Extract Sample document and apply following document preproces
 
 # Image & Results
 
-![Tokenized Processing](tokenized.jpg)
+![Tokenized Processing](Tokenized_Words.png)
+
+![Box-Plot](boxplot.png)
