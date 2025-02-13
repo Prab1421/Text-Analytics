@@ -4,5 +4,6 @@ Text Analytics 1. Extract Sample document and apply following document preproces
 # Image & Results
 
 ![Tokenized Processing](Tokenized_Words.png)
-
+![Stemmed,Lemmatized, TF-IDF](Stemmed,Lemmatized, TF-IDF.png)
+![POS_tag](POS_tag.png)
 ![Box-Plot](boxplot.png)
